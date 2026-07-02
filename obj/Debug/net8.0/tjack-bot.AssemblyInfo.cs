@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tjack-bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa8fc5f119decc5f89bcfa3c4dac7e282c60595b")]
 [assembly: System.Reflection.AssemblyProductAttribute("tjack-bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tjack-bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

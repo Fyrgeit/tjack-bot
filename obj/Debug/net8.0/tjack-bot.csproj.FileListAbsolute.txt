@@ -20,3 +20,4 @@ C:\Users\mans\Repos\tjack-bot\obj\Debug\net8.0\refint\tjack-bot.dll
 C:\Users\mans\Repos\tjack-bot\obj\Debug\net8.0\tjack-bot.pdb
 C:\Users\mans\Repos\tjack-bot\obj\Debug\net8.0\tjack-bot.genruntimeconfig.cache
 C:\Users\mans\Repos\tjack-bot\obj\Debug\net8.0\ref\tjack-bot.dll
+C:\Users\mans\Repos\tjack-bot\obj\Debug\net8.0\tjack-bot.sourcelink.json
